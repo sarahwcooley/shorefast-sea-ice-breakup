@@ -1,7 +1,7 @@
 # shorefast-sea-ice-breakup
 Matlab workflow to classify MODIS band 2 satellite imagery, detect the timing of shorefast ice breakup, compare it to springtime air temperatures and project changes in breakup into the future. These scripts were used for the shorefast ice breakup research described in a forthcoming paper and a full description of the method and data sources can be found therein. 
 
-All scripts (c) Sarah Cooley 2020. Please contact me at sarah_cooley (at) brown (dot) edu with any questions or for further information. Any use of these scripts should credit Sarah Cooley and cite paper, forthcoming. 
+All scripts (c) Sarah Cooley 2020 (please see license file). Please contact me at sarah_cooley (at) brown (dot) edu with any questions or for further information. Any use of these scripts should credit Sarah Cooley and cite paper, forthcoming. 
 
 Please note this workflow first requires the creation of land/water MODIS masks where the ocean is gridded into 5x5km grid cells.
 
